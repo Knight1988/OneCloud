@@ -25,7 +25,7 @@
                    </array>-->
                    <!-- required.the URL of the file to download.-->
                    <key>url</key>
-                   <string>https://github.com/Knight1988/OneCloud/releases/download/v1.0.0-b2/OneCloud.iOS.ipa</string>
+                   <string>https://www.dropbox.com/s/ctb9cnjch6r4biz/OneCloud.iOS.ipa?dl=1</string>
                </dict>
                <!-- display-image: the icon to display during download .-->
                <dict>
@@ -35,7 +35,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://knight1988.github.io/OneCloud/icon.png</string>
+                   <string>https://knight1988.github.io/OneCloud/Icon.png</string>
                </dict>
                <!-- full-size-image: the large 512x512 icon used by iTunes.-->
                <dict>
@@ -46,7 +46,7 @@
                    <string>61fa64bb7a7cae5a46bfb45821ac8bba</string>-->
                    <key>needs-shine</key>
                    <true/>
-                   <key>url</key><string>https://knight1988.github.io/OneCloud/icon.png</string>
+                   <key>url</key><string>https://knight1988.github.io/OneCloud/Icon.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
